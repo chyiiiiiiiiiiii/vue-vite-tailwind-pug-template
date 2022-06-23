@@ -15,11 +15,11 @@ yarn dev
 ```
 
 ## Package
-- vue
-- vite
-- typescript
-- tailwindcss
-- pug
+- Vue3
+- Vite
+- Typescript
+- Tailwindcss
+- Pug
 
 ## About
 
